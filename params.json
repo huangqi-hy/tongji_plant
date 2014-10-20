@@ -1,0 +1,1 @@
+{"name":"Tongji plant","tagline":"一个关于同济大学校园植物的介绍网站","body":"tongji_plant\r\n============\r\n\r\n一个关于同济大学校园植物的介绍网站，编写语言为PHP，数据库为MySQL，使用百度地图公开API进行校园建筑定位\r\n页面分为主页（网站介绍页面），植物地图页面，植物列表页面和植物介绍页面\r\n不提供浏览者自主添加数据功能，支持最基本的查找功能\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
