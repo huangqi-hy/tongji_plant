@@ -1,5 +1,5 @@
 <?php
-require("./header.php");
+include("header.php");
 hello world!
-require("./footer.php");
+include("footer.php");
 ?>
